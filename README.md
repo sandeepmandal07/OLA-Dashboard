@@ -3,15 +3,13 @@ OLA Analytics: Analyzed Ola ride data to uncover trends in customer behavior, pe
 
 
 Tech Stack:
-
-Example: The dashboard was built using the following tools and technologies:
 • 📊 Power BI Desktop – Main data visualization platform used for report creation.
 • 📂 Power Query – Data transformation and cleaning layer for reshaping and preparing the data.
 • 🧠 DAX (Data Analysis Expressions) – Used for calculated measures, dynamic visuals, and conditional logic.
 • 📁 File Format – .pbix for development and .png for dashboard previews.
 
 
-5. Features / Highlights
+Features / Highlights
 
 📌 Business Problem
 Ola needed to understand customer ride patterns, peak demand times, and city-wise performance to improve operational efficiency and customer service.
