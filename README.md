@@ -33,5 +33,5 @@ Recognized underperforming cities, helping target marketing efforts.
 
 Helped decision-makers quickly assess operational performance and optimize ride distribution strategies.
 
-6. Screenshots / Demos
+Screenshots / Demos
    https://github.com/sandeepmandal07/OLA-Dashboard/blob/main/OverView%20of%20Dashboard.png
