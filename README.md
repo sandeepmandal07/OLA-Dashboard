@@ -8,6 +8,18 @@ Tech Stack:
 • 🧠 DAX (Data Analysis Expressions) – Used for calculated measures, dynamic visuals, and conditional logic.
 • 📁 File Format – .pbix for development and .png for dashboard previews.
 
+-Problem Statements (PowerBI Dashboard)
+
+   Ride Volume Over Time
+   Booking Status Breakdown
+   Top 5 Vehicle Types by Ride Distance
+   Average Customer Ratings by Vehicle Type
+   cancelled Rides Reasons
+   Revenue by Payment Method
+   Top 5 Customers by Total Booking Value
+   Ride Distance Distribution Per Day
+   Driver Ratings Distribution
+   Customer vs. Driver Ratings
 
 Features / Highlights
 
